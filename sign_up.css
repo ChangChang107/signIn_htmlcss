@@ -65,13 +65,13 @@ html,body{
     margin-right: 5px;
 }
 
-.sign_up_btn{
+.signup_btn{
     color: black;
     background-color: #FFC312;
     width: 100px;
 }
     
-.sign_up_btn:hover{
+.signup_btn:hover{
     color: black;
     background-color: white;
 }
